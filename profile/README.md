@@ -10,6 +10,8 @@ You can [try our online playground](https://litecanvas.github.io) or install via
 npm install @litecanvas/litecanvas
 ```
 
+Or just load from a CDN: `https://unpkg.com/@litecanvas/litecanvas/dist/dist.js`
+
 ### Features
 
 -   **Tiny**: only `4KB` gzipped.
