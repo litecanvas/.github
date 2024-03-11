@@ -4,7 +4,8 @@
 
 Lightweight HTML5 canvas engine suitable for small games and animations.
 
-> **litecanvas** is a game engine to enjoy programming: there is no fancy interface, no visual helpers, no gui tools... just coding.
+**litecanvas** is a game engine to enjoy programming: there is no fancy interface, no visual helpers, no gui tools... just coding.
+
 You can try our [online playground](https://litecanvas.github.io) or just installing the [basic template](https://github.com/litecanvas/template):
 
 ```
