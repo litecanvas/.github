@@ -1,6 +1,6 @@
 # litecanvas
 
-[Main repository](https://github.com/litecanvas/engine) | [Playground](https://litecanvas.github.io) | [Cheatsheet](https://litecanvas.github.io/about.html) | [Plugins](https://www.npmjs.com/search?q=keywords:litecanvas)
+[Main repository](https://github.com/litecanvas/game-engine) | [Playground](https://litecanvas.github.io) | [Cheatsheet](https://litecanvas.github.io/about.html) | [Plugins](https://www.npmjs.com/search?q=keywords:litecanvas)
 
 Lightweight HTML5 canvas engine suitable for small games and animations.
 
