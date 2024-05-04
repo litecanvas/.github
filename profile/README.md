@@ -16,3 +16,7 @@ npm start
 ```
 
 Or just load the engine code from a CDN: `https://unpkg.com/@litecanvas/litecanvas/dist/dist.js`
+
+## Community 
+
+[Discord](https://discord.com/invite/r2c3rGsvH3)
