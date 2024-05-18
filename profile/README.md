@@ -10,4 +10,4 @@ You can try our [online playground](https://litecanvas.github.io) or using the [
 
 ## Community 
 
-[Discord](https://discord.com/invite/r2c3rGsvH3)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/r2c3rGsvH3)
