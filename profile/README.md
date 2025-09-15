@@ -7,4 +7,4 @@
 
 **Litecanvas** is a lightweight (~4kb) HTML5 canvas engine suitable for small games, animations and creative programming for people who enjoy coding.
 
-You can try our [online playground](https://litecanvas.github.io) or using the [basic template](https://github.com/litecanvas/template).
+Start in our [Playground](https://litecanvas.github.io) or using the [basic template](https://github.com/litecanvas/template).
